@@ -1,7 +1,7 @@
 # Supervised_Model_Selection_for_Risk_Scoring
 
 ## Overview
-This project applies supervised machine learning techniques to predict risk-scores from clinical features. It compares multiple models, points out contributing features, calculates risk score and provides visualization for performance and interpretability of the model.
+This project applies supervised machine learning techniques to predict risk-scores from clinical features. It compares multiple models, points out contributing features, calculates risk score and provides visualization for performance and interpretability of the model. This is the used [dataset](
 
 ## Methods
 
