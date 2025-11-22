@@ -1,8 +1,7 @@
-# Predicting_Heart_Disease
+# Supervised_Model_Selection_for_Risk_Scoring
 
 ## Overview
-This project applies supervised machine learning techniques to predict heart disease from clinical features. It compares multiple models, points out contributing features,
-calculates risk score and provides visualization for performance and interpretability of the model.
+This project applies supervised machine learning techniques to predict risk-scores from clinical features. It compares multiple models, points out contributing features, calculates risk score and provides visualization for performance and interpretability of the model.
 
 ## Methods
 
@@ -14,9 +13,9 @@ calculates risk score and provides visualization for performance and interpretab
 ## Outputs and plots
 
 **Confusion Matrix :** Shows the number of patients correctly or incorrectly classified by the model
-**Feature Importance :** Underscore the top features contributing most to heart disease prediction
+**Feature Importance :** Underscores the top features contributing most to heart disease prediction
 **Risk Score Table :** Summarizes predicted risk scores that is categorized into low, medium and high risk levels
 
-Visual outputs are in the image folder
+Visual outputs are in the images folder and dataset used for the project is in dataset folder.
 
-## Repository Structure
+
